@@ -1,4 +1,4 @@
-# Ex-No_3-a-Implicit-Intent
+# Ex-No_3-Intent(Implicit & Explicit)
 
 Develop program to perform explicit and implicit intent by creating a buttons using Android Studio
 
