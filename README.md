@@ -237,4 +237,4 @@ tools:context="com.example.android.intents.SecondActivity">
 
 
 ## Result:
-Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
+Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully
